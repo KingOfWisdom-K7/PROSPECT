@@ -96,8 +96,6 @@ These hyperparameters were selected based on best practices and empirical testin
 
 ## 🧾 Evaluation Results (Sample)
 
-> *(Replace with your actual test set results)*
-
 - ✅ **Accuracy**: 87.0%  
 - ✅ **AUC**: 0.975  
 - ✅ **F1 Score (Pneumonia)**: 0.90  
